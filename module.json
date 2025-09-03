@@ -1,0 +1,24 @@
+{
+  "id": "meu-modulo",
+  "title": "Meu Primeiro Módulo",
+  "description": "Um módulo de teste para Foundry VTT",
+  "version": "1.0.0",
+  "authors": [
+    { "name": "Lótus", "email": "", "url": "" }
+  ],
+  "compatibleCoreVersion": "12",
+  "scripts": [
+    "scripts/meu-script.js"
+  ],
+  "styles": [
+    "styles/style.css"
+  ],
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json"
+    }
+  ],
+  "packs": []
+}
