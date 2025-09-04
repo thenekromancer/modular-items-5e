@@ -4,11 +4,11 @@
   "description": "Um módulo de teste para Foundry VTT",
   "version": "1.0.0",
   "authors": [
-    { "name": "Lótus", "email": "", "url": "" }
+    { "name": "Lótus", "email": "", "url": "https://github.com/thenekromancer/modular-items-5e.git" }
   ],
   "compatibleCoreVersion": "12",
   "scripts": [
-    "scripts/meu-script.js"
+    "scripts/modular-items-5e.js"
   ],
   "styles": [
     "styles/style.css"
@@ -21,4 +21,5 @@
     }
   ],
   "packs": []
+
 }
